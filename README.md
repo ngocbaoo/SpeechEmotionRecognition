@@ -22,16 +22,6 @@ You can download the dataset from: https://www.kaggle.com/datasets/uwrfkaggler/r
   - LSTM to capture temporal dynamics.
   - Fully connected layers to classify into 8 emotions.
 
-### Project Structure
-
-```
-├── SER.ipynb           # Main Jupyter Notebook
-├── audio/              # Folder with audio files (RAVDESS)
-├── models/             # Saved models (optional)
-├── requirements.txt    # Python dependencies (to be added)
-└── README.md           # Project description
-```
-
 ### How to Run
 
 1. Install dependencies:
