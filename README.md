@@ -34,18 +34,6 @@ pip install -r requirements.txt
 
 Download RAVDESS and extract into the `audio/` folder. Adjust path if needed in the notebook.
 
-### Results
-
-- Model achieves high accuracy on training and validation sets.
-- The notebook provides plots for training history and confusion matrix.
-
-### Future Work
-
-- Add support for other datasets: CREMA-D, SAVEE, Toronto Emotion.
-- Apply noise augmentation for robustness.
-- Convert to real-time inference app with Streamlit or Flask.
-- Integrate attention mechanism into LSTM.
-
 ### Requirements
 
 - Python 3.8+
@@ -56,4 +44,3 @@ Download RAVDESS and extract into the `audio/` folder. Adjust path if needed in 
 ### Acknowledgments
 
 - RAVDESS Dataset: https://zenodo.org/record/1188976
-- Emotion recognition research community
