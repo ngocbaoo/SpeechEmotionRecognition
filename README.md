@@ -34,14 +34,6 @@ pip install -r requirements.txt
 
 Download RAVDESS and extract into the `audio/` folder. Adjust path if needed in the notebook.
 
-3. Run the notebook:
-
-Open `SER.ipynb` and run all cells. It includes:
-- Data loading
-- Feature extraction (MFCC)
-- Model training (CNN + LSTM)
-- Evaluation (accuracy and confusion matrix)
-
 ### Results
 
 - Model achieves high accuracy on training and validation sets.
